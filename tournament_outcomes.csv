@@ -1,0 +1,340 @@
+YEAR, TEAM, TOURNAMENT OUTCOME
+2025, Duke, F4
+2025, Houston, Finals
+2025, Oregon, R32
+2025, Gonzaga, R32
+2025, Mississippi, S16
+2025, Florida, Champs
+2025, Purdue, S16
+2025, Creighton, R32
+2025, Arkansas, S16
+2025, Auburn, F4
+2025, UCLA, R32
+2025, Connecticut, R32
+2025, Tennessee, E8
+2025, Alabama, E8
+2025, Arizona, S16
+2025, North Carolina, R64
+2025, Michigan, S16
+2025, BYU, S16
+2025, Maryland, S16
+2025, New Mexico, R32
+2025, Colorado St., R32
+2025, Drake, R32
+2025, Kentucky, S16
+2025, Texas Tech, E8
+2025, Vanderbilt, R64
+2025, Illinois, R32
+2025, Michigan St., E8
+2025, Iowa St., R32
+2025, Texas A&M, R32
+2025, St. John's, R32
+2025, Wisconsin, R32
+2025, Robert Morris, R64
+2025, Baylor, R32
+2025, McNeese St., R32
+2025, Texas, R68
+2025, UNC Wilmington, R64
+2025, Mississippi St., R64
+2025, Saint Mary's, R32
+2025, Xavier, R64
+2025, Kansas, R64
+2025, VCU, R64
+2025, Memphis, R64
+2025, High Point, R64
+2025, UC San Diego, R64
+2025, Yale, R64
+2025, Marquette, R64
+2025, Oklahoma, R64
+2025, Wofford, R64
+2025, Montana, R64
+2025, Bryant, R64
+2025, Louisville, R64
+2025, Missouri, R64
+2025, Troy, R64
+2025, Mount St. Mary's, R64
+2025, Akron, R64
+2025, Clemson, R64
+2025, Alabama St., R64
+2025, Norflok St., R64
+2025, Nebraska Omaha, R64
+2025, Saint Francis, R68
+2025, Georgia, R64
+2025, Lipscomb, R64
+2025, Utak St., R64
+2025, Grand Canyon, R64
+2025, San Diego St., R68
+2025, American, R68
+2025, SIU Edwardsville, R64
+2025, Liberty, R64
+2024, Connecticut, Champs
+2024, Clemson, E8
+2024, Tennessee, E8
+2024, Houston, S16
+2024, Duke, E8
+2024, Purdue, Finals
+2024, Gonzaga, S16
+2024, Texas A&M, R32
+2024, Michigan St., R32
+2024, Illinois, E8
+2024, Colorado St., R64
+2024, Texas, R32
+2024, North Carolina, S16
+2024, N.C. State, F4
+2024, Alabama, F4
+2024, Oregon, R32
+2024, Iowa St., S16
+2024, San Diego St., S16
+2024, Creighton, S16
+2024, Grand Canyon, R32
+2024, Arizona, S16
+2024, Baylor, R32
+2024, Colorado, R32
+2024, Washington St., R32
+2024, Florida, R64
+2024, Nevada, R64
+2024, Oakland, R32
+2024, Marquette, S16
+2024, Utah St., R32
+2024, Kansas, R32
+2024, Dayton, R32
+2024, Drake, R64
+2024, Boise St., R68
+2024, Northwestern, R32
+2024, Morehead St., R64
+2024, Auburn, R64
+2024, Western Kentucky, R64
+2024, UAB, R64
+2024, Samford, R64
+2024, Charleston, R64
+2024, James Madison, R32
+2024, Duquesne, R32
+2024, Florida Atlantic, R64
+2024, Long Beach St., R64
+2024, Akron, R64
+2024, Yale, R32
+2024, South Dakota St., R64
+2024, Texas Tech, R64
+2024, Saint Mary's, R64
+2024, Wagner, R64
+2024, Vermont, R64
+2024, Nebraska, R64
+2024, Kentucky, R64
+2024, TCU, R64
+2024, BYU, R64
+2024, South Carolina, R64
+2024, Grambling St., R64
+2024, Mississippi St., R64
+2024, Montana St., R68
+2024, McNeese St., R64
+2024, Wisconsin, R64
+2024, Colgate, R64
+2024, New Mexico, R64
+2024, Stetson, R64
+2024, Longwood, R64
+2024, Howard, R68
+2024, Virginia, R68
+2024, Saint Peter's, R64
+2023, Connecticut, Champs
+2023, UCLA, S16
+2023, Arizona St., R64
+2023, Penn St., R32
+2023, Duke, R32
+2023, Texas, E8
+2023, Alabama, S16
+2023, Miami FL, F4
+2023, Creighton, E8
+2023, Michigan St., S16
+2023, Tennessee, S16
+2023, San Diego St., Finals
+2023, Kansas, R32
+2023, Northwestern, R32
+2023, Saint Mary's, R32
+2023, Princeton, S16
+2023, Auburn, R32
+2023, Pittsburgh, R32
+2023, Kentucky, R32
+2023, Kansas St., E8
+2023, Florida Atlantic, F4
+2023, Fairleigh Dickinson, R32
+2023, Marquette, R32
+2023, TCU, R32
+2023, West Virginia, R64
+2023, Kennesaw St., R64
+2023, Memphis, R64
+2023, Gonzaga, E8
+2023, Houston, S16
+2023, Charleston, R64
+2023, Arkansas, S16
+2023, Indiana, R32
+2023, Baylor, R32
+2023, Drake, R64
+2023, Northern Kentucky, R64
+2023, Xavier, S16
+2023, Maryland, R32
+2023, N.C. State, R64
+2023, Virginia, R64
+2023, Mississippi St., R68
+2023, Louisiana, R64
+2023, Iona, R64
+2023, Arizona, R64
+2023, Grand Canyon, R64
+2023, VCU, R64
+2023, Missouri, R32
+2023, Iowa, R64
+2023, Boise St., R64
+2023, Providence, R64
+2023, USC, R64
+2023, Montana St., R64
+2023, Furman, R32
+2023, UC Santa Barbara, R64
+2023, Illinois, R64
+2023, Utah St., R64
+2023, Vermont, R64
+2023, Texas A&M Corpus Chris, R64
+2023, Colgate, R64
+2023, Kent St., R64
+2023, Howard, R64
+2023, Southeast Missouri St., R68
+2023, Texas A&M, R64
+2023, Purdue, R64
+2023, Nevada, R68
+2023, UNC Asheville, R64
+2023, Oral Roberts, R64
+2023, Iowa St., R64
+2023, Texas Southern, R68
+2022, North Carolina, Finals
+2022, TCU, R32
+2022, Kansas, Champs
+2022, Memphis, R32
+2022, Texas Tech, S16
+2022, Houston, E8
+2022, Providence, S16
+2022, Villanova, F4
+2022, Saint Mary's, R32
+2022, Tennessee, R32
+2022, Baylor, R32
+2022, Duke, F4
+2022, Miami FL, E8
+2022, Chattanooga, R64
+2022, Purdue, S16
+2022, Akron, R64
+2022, Texas, R32
+2022, Michigan, S16
+2022, UCLA, S16
+2022, Arkansas, E8
+2022, Ohio St., R32
+2022, Notre Dame, R32
+2022, New Mexico St., R32
+2022, Gonzaga, S16
+2022, Arizona, S16
+2022, Creighton, R32
+2022, Michigan St., R32
+2022, Iowa St., S16
+2022, Saint Peter's, E8
+2022, Georgia St., R64
+2022, Rutgers, R68
+2022, San Diego St., R64
+2022, Vermont, R64
+2022, Davidson, R64
+2022, Virginia Tech, R64
+2022, Auburn, R32
+2022, Colorado St., R64
+2022, Colgate, R64
+2022, San Francisco, R64
+2022, USC, R64
+2022, Illinois, R32
+2022, Wisconsin, R32
+2022, Murray St., R32
+2022, UAB, R64
+2022, Wyoming, R68
+2022, Wright St., R64
+2022, Indiana, R64
+2022, Kentucky, R64
+2022, LSU, R64
+2022, Iowa, R64
+2022, South Dakota St., R64
+2022, Alabama, R64
+2022, Delaware, R64
+2022, Connecticut, R64
+2022, Richmond, R32
+2022, Jacksonville St., R64
+2022, Cal St. Fullerton, R64
+2022, Boise St., R64
+2022, Texas Southern, R64
+2022, Loyola Chicago, R64
+2022, Yale, R64
+2022, Texas A&M Corpus Chris, R68
+2022, Bryant, R68
+2022, Longwood, R64
+2022, Marquette, R64
+2022, Montana St., R64
+2022, Norfolk St., R64
+2022, Seton Hall, R64
+2021, Baylor, Champs
+2021, Gonzaga, Finals
+2021, USC, E8
+2021, UCLA, F4
+2021, Oregon St., E8
+2021, LSU, R32
+2021, Wisconsin, R32
+2021, Michigan, E8
+2021, Villanova, S16
+2021, Syracuse, S16
+2021, Loyola Chicago, S16
+2021, Colorado, R32
+2021, Alabama, S16
+2021, Rutgers, R32
+2021, Houston, F4
+2021, Oregon, S16
+2021, Florida St., S16
+2021, Texas Tech, R32
+2021, Illinois, R32
+2021, Oral Roberts, S16
+2021, Michigan St., R68
+2021, UC Satna Barbara, R64
+2021, Maryland, R32
+2021, Creighton, S16
+2021, Oklahoma, R32
+2021, Arkansas, E8
+2021, Iowa, R32
+2021, Virginia Tech, R64
+2021, Eastern Washington, R64
+2021, West Virginia, R32
+2021, Georgia Tech, R64
+2021, Wichita St., R68
+2021, Missouri, R64
+2021, Clemson, R64
+2021, North Texas, R32
+2021, Florida, R32
+2021, Ohio, R32
+2021, Colgate, R64
+2021, Virginia, R64
+2021, Liberty, R64
+2021, Oklahoma St., R32
+2021, Iona, R64
+2021, Texas, R64
+2021, Winthrop, R64
+2021, Drake, R64
+2021, Utah St., R64
+2021, Grand Canyon, R64
+2021, UNC Greensboro, R64
+2021, Abilene Christian, R32
+2021, BYU, R64
+2021, Morehead St., R64
+2021, Ohio St., R64
+2021, Hartford, R64
+2021, Kansas, R32
+2021, Connecticut, R64
+2021, St. Bonaventure, R64
+2021, Purdue, R64
+2021, Texas Southern, R64
+2021, Norflok St., R64
+2021, San Diego St., R64
+2021, Cleveland St., R64
+2021, North Carolina, R64
+2021, Georgetown, R64
+2021, Mount St. Mary's, R68
+2021, Drexel, R64
+2021, Tennessee, R64
+2021, Appalachian St., R68
