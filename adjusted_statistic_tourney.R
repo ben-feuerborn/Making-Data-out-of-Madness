@@ -55,7 +55,7 @@ plots_by_year_offesnse <- map(team_factors_by_year, function(df) {
 
 plots_by_year_defesnse <- map(team_factors_by_year, function(df) {
     ggplot(df, aes(x = adj_d, y = outcome, label = team)) +
-        ggrepel::geom_text_repel(size = 4, max.overlaps = 30) +
+        ggrepel::geom_text_repel(size = 5, max.overlaps = 30) +
         labs(
             title = paste("Adjusted Defense by Tournament Outcome -", unique(df$year)),
             x = "Adjusted Defensive Efficiency",
@@ -69,8 +69,10 @@ walk(plots_by_year_offesnse, function(plot) {
     ggsave(
         paste0("adjusted_statistic_vs_tourney/adjusted_offense_tourney_", unique(plot$data$year), ".png"),
         plot = plot,
-        width = 8 * 1.75,
-        height = 12 * 1.75,
+        #width = 8 * 1.5,
+        #height = 12 * 1.25,
+        width = 8 * 1.5,
+        height = 9 * 1.5,
         bg = "white"
     )
 })
@@ -79,8 +81,8 @@ walk(plots_by_year_defesnse, function(plot) {
     ggsave(
         paste0("adjusted_statistic_vs_tourney/adjusted_defense_tourney_", unique(plot$data$year), ".png"),
         plot = plot,
-        width = 8 * 1.75,
-        height = 12 * 1.75,
+        width = 8 * 1.5,
+        height = 9 * 1.5,
         bg = "white"
     )
 })

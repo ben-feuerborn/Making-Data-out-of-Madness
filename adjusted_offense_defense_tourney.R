@@ -35,7 +35,7 @@ team_factors_by_year <- map(years, function(yr) {
 # create a plot for each year
 plots_by_year <- map(team_factors_by_year, function(df) {
     ggplot(df, aes(x = adj_o, y = adj_d, label = label)) +
-        ggrepel::geom_text_repel(size = 4, max.overlaps = 20) +
+        ggrepel::geom_text_repel(size = 5, max.overlaps = 20) +
         labs(
             title = paste("Adjusted Offense vs Defense - Tournament Teams", unique(df$year)),
             x = "Adjusted Offense",
@@ -52,8 +52,8 @@ walk(plots_by_year, function(plot) {
     ggsave(
         paste0("adjusted_offesne_defense_tourney/adjusted_offense_defense_tourney_", unique(plot$data$year), ".png"),
         plot = plot,
-        width = 8 * 1.75,
-        height = 12 * 1.75,
+        width = 8 * 2,
+        height = 9 * 2,
         bg = "white"
     )
 })
